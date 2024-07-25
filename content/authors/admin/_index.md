@@ -3,11 +3,11 @@
 title: 毛鹏达
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mao Peng Da
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pengda
+last_name: Mao
 
 # Status emoji
 status:
