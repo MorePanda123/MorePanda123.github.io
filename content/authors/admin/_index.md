@@ -48,19 +48,19 @@ interests:
   - Trajectory Planning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Robotics
+    institution: Beihang University
+    date_start: 2022-09-01
+    date_end: 2026-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng in Robotics
+    institution: Beihang University
+    date_start: 2020-09-01
+    date_end: 2022-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -68,12 +68,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Automation
+    institution: Beihang University
+    date_start: 2016-09-01
+    date_end: 2020-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -108,18 +108,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Python
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 60
+        icon: code-bracket
+      - name: MATLAB
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,12 +138,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -179,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I, Pengda Mao, am a PhD candidate at Rfly Lab of Beihang University. My supervisor is Prof. Quan Quan. My research interests include distributed robotics, multi-parametric optimization and trajectory planning. I proposed the concept of optimal virtual tube and the regular virtual tube for motion planning of the swarm robotics. 
