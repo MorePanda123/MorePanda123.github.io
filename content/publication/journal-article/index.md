@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Tube RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments"
 authors:
-- admin
-- Robert Ford
+- Pengda Mao
+- Shuli Lv
+- Quan Quan
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+- "Corresponding author"
+date: "2025-01-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,29 +20,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: in **IEEE Robotics and Automation Letters**
+publication_short: in **RA-L**
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recently, the concept of homotopic trajectory planning has emerged as a novel solution to navigation in large-scale obstacle environments for swarm robotics, offering a wide range of applications. However, it lacks an efficient homotopic path planning method in large-scale obstacle environments. This paper introduces Tube RRT*, an innovative homotopic path planning method that builds upon and improves the Rapidly-exploring Random Tree (RRT) algorithm. Tube RRT* is designed to efficiently generate homotopic paths belonging to the same homotopy class and simultaneously considers gap volume and path length to mitigate swarm congestion and enable agile navigation. Through comprehensive simulations and experiments, the effectiveness of Tube RRT* is validated.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper introduces Tube RRT*, an innovative homotopic path planning method that efficiently generates homotopic paths in large-scale obstacle environments, mitigates swarm congestion, and enhances navigation agility, validated through comprehensive simulations and experiments.
 
 tags:
-- Source Themes
-featured: false
+- Tube RRT*
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10844529/'
+url_code: 'https://github.com/MorePanda123/TubeRRT'
+url_video: 'https://www.youtube.com/watch?v=xDccyfEWrNc'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,15 +58,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

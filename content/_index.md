@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        The multiparametric programming methods haved been applied in MPC for several years. This method, named Explicit Model Predictive Control (Explicit MPC), is a control strategy that precomputes the optimal control actions for all possible states within a predefined region, allowing for rapid decision-making in real-time applications. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        However, the application of multiparametric programming in trajectory planning has received little attention.
+        Therefore, I attempted to apply the multiparametric programming methods from operations research to trajectory planning to achieve efficient and stable trajectory planning under constraints of limited computation in robot.
     design:
       columns: '1'
   - block: collection
