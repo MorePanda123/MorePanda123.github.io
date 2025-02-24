@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | 毛鹏达(Pengda Mao)</title>
+    <link>http://localhost:1313/en/publication/</link>
+      <atom:link href="http://localhost:1313/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Tube RRT*: Efficient Homotopic Path Planning for Swarm Robotics Passing-Through Large-Scale Obstacle Environments</title>
+      <link>http://localhost:1313/en/publication/journal-article/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal virtual tube planning and control for swarm robotics</title>
+      <link>http://localhost:1313/en/publication/conference-paper/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/conference-paper/</guid>
+      <description>&lt;p&gt;This paper is selected as the &lt;strong&gt;cover paper&lt;/strong&gt; of the issue 5 in the international journal of robotics research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making robotics swarm flow more smoothly: a regular virtual tube model</title>
+      <link>http://localhost:1313/en/publication/preprint/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast light show design platform for k-12 children</title>
+      <link>http://localhost:1313/en/publication/fast-lightshow/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/fast-lightshow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

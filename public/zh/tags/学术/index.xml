@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学术 | 毛鹏达</title>
+    <link>http://localhost:1313/zh/tags/%E5%AD%A6%E6%9C%AF/</link>
+      <atom:link href="http://localhost:1313/zh/tags/%E5%AD%A6%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <description>学术</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>学术</title>
+      <link>http://localhost:1313/zh/tags/%E5%AD%A6%E6%9C%AF/</link>
+    </image>
+    
+    <item>
+      <title>获得CSC资助进行海外联合培养</title>
+      <link>http://localhost:1313/zh/post/csc/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/post/csc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

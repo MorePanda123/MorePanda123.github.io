@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimal Virtual Tube | 毛鹏达</title>
+    <link>http://localhost:1313/zh/tags/optimal-virtual-tube/</link>
+      <atom:link href="http://localhost:1313/zh/tags/optimal-virtual-tube/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimal Virtual Tube</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimal Virtual Tube</title>
+      <link>http://localhost:1313/zh/tags/optimal-virtual-tube/</link>
+    </image>
+    
+    <item>
+      <title>Optimal virtual tube planning and control for swarm robotics</title>
+      <link>http://localhost:1313/zh/publication/conference-paper/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/publication/conference-paper/</guid>
+      <description>&lt;p&gt;This paper is selected as the &lt;strong&gt;cover paper&lt;/strong&gt; of the issue 5 in the international journal of robotics research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
