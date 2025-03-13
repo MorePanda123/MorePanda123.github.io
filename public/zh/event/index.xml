@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>ARTS Scholarship Presentation</title>
+      <title>ARTS奖学金答辩</title>
       <link>http://localhost:1313/zh/event/example/</link>
       <pubDate>Sat, 23 Nov 2024 17:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zh/event/example/</guid>
-      <description>&lt;p&gt;I am awarded this scholarship.&lt;/p&gt;
+      <description>&lt;p&gt;经过答辩，我成功获得了ARTS奖学金。&lt;/p&gt;
 </description>
     </item>
     

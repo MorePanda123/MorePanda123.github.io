@@ -5,16 +5,6 @@
     <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/academic/"
-                />
   </url><url>
     <loc>http://localhost:1313/post/host1/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
@@ -131,16 +121,6 @@
     <loc>http://localhost:1313/tags/paper/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/paper/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/ral/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
@@ -215,30 +195,10 @@
     <loc>http://localhost:1313/tags/conference/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/conference/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/scholarship/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/scholarship/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/scholarship/"
-                />
   </url><url>
     <loc>http://localhost:1313/post/csc/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>

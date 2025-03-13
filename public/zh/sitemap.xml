@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh/tags/academic/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/academic/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/post/host1/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -57,6 +43,10 @@
                 hreflang="zh-Hans"
                 href="http://localhost:1313/zh/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E5%AD%A6%E6%9C%AF/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/zh/publication_types/article-journal/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
@@ -128,20 +118,6 @@
                 href="http://localhost:1313/zh/publication/journal-article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/tags/paper/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/paper/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/tags/ral/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,6 +145,10 @@
                 hreflang="zh-Hans"
                 href="http://localhost:1313/zh/post/ral/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E8%AE%BA%E6%96%87/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/zh/event/example/</loc>
     <lastmod>2024-11-23T17:00:00+00:00</lastmod>
@@ -198,6 +178,14 @@
                 href="http://localhost:1313/zh/event/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/tags/%E4%BC%9A%E8%AE%AE/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E5%A5%96%E5%AD%A6%E9%87%91/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/zh/post/get-started/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,34 +198,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="http://localhost:1313/zh/post/get-started/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/tags/conference/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/conference/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/tags/scholarship/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/scholarship/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/tags/scholarship/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh/post/csc/</loc>
