@@ -48,6 +48,15 @@ interests:
   - 轨迹规划
 
 education:
+  - area: 生物物理系 访问博士生
+    institution: 罗兰大学
+    date_start: 2025-04-13
+    date_end: 2026-04-13
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: 导航、制导与控制 博士生
     institution: 北京航空航天大学
     date_start: 2022-09-01
@@ -176,6 +185,6 @@ awards:
 ---
 
 ## 个人简介
-毛鹏达，北京航空航天大学可靠飞行控制组博士生，师从全权教授。研究方向为基于参数规划的机器人集群轨迹规划与控制，提出了针对机器人集群运动的最优虚拟管道和正则管道的方法。目前以第一作者身份在机器人顶级期刊/会议**IJRR, RAL, ICRA, IROS**上发表多篇论文, 其中**IJRR为中国首篇封面论文**。
+毛鹏达，北京航空航天大学可靠飞行控制组博士生，师从全权教授。研究方向为基于参数规划的机器人集群轨迹规划与控制，提出了针对机器人集群运动的最优虚拟管道和正则管道的方法。专著 **《多旋翼远程控制实践》** 作者之一，目前以第一作者身份在机器人顶级期刊/会议**IJRR, RAL, ICRA, IROS**上发表多篇论文, 其中**IJRR为中国首篇封面论文**。
 在2021年智在飞翔无人飞行器感知技术竞赛中获得仿真赛废墟场景第一名、实飞赛第二名。
-获得中国自动化学会**ARTS**奖学金、国家留学基金委博士生海外联培基金(**CSC**)资助。曾作为特邀嘉宾参与深蓝学院举办的机器人运动规划系列研讨课讲授。
+获得中国自动化学会**ARTS**奖学金、国家留学基金委博士生海外联培基金(**CSC**)资助在罗兰大学Vicsek教授指导下进行联合培养。曾作为特邀嘉宾参与深蓝学院举办的机器人运动规划系列研讨课讲授。
